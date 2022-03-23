@@ -1,9 +1,9 @@
-//
-//  PersonDetailViewController.swift
-//  PersonalList
-//
-//  Created by Konstantin Fomenkov on 22.03.2022.
-//
+    //
+    //  PersonDetailViewController.swift
+    //  PersonalList
+    //
+    //  Created by Konstantin Fomenkov on 22.03.2022.
+    //
 
 import UIKit
 
