@@ -10,6 +10,7 @@
 		D149909427EA585200DC0A0D /* ShortContactsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D149909327EA585200DC0A0D /* ShortContactsViewController.swift */; };
 		D149909627EA587300DC0A0D /* DetailContactsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D149909527EA587300DC0A0D /* DetailContactsViewController.swift */; };
 		D149909827EA589C00DC0A0D /* PersonDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D149909727EA589C00DC0A0D /* PersonDetailViewController.swift */; };
+		D149909A27EB653A00DC0A0D /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D149909927EB653A00DC0A0D /* TabBarViewController.swift */; };
 		D1B3E95927EA20170071A130 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B3E95827EA20170071A130 /* AppDelegate.swift */; };
 		D1B3E95B27EA20170071A130 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1B3E95A27EA20170071A130 /* SceneDelegate.swift */; };
 		D1B3E96027EA20170071A130 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1B3E95E27EA20170071A130 /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 		D149909327EA585200DC0A0D /* ShortContactsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShortContactsViewController.swift; sourceTree = "<group>"; };
 		D149909527EA587300DC0A0D /* DetailContactsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailContactsViewController.swift; sourceTree = "<group>"; };
 		D149909727EA589C00DC0A0D /* PersonDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonDetailViewController.swift; sourceTree = "<group>"; };
+		D149909927EB653A00DC0A0D /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
 		D1B3E95527EA20170071A130 /* PersonalList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PersonalList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1B3E95827EA20170071A130 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D1B3E95A27EA20170071A130 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 		D1B3E96D27EA206C0071A130 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				D149909927EB653A00DC0A0D /* TabBarViewController.swift */,
 				D149909327EA585200DC0A0D /* ShortContactsViewController.swift */,
 				D149909527EA587300DC0A0D /* DetailContactsViewController.swift */,
 				D149909727EA589C00DC0A0D /* PersonDetailViewController.swift */,
@@ -198,6 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D149909A27EB653A00DC0A0D /* TabBarViewController.swift in Sources */,
 				D149909627EA587300DC0A0D /* DetailContactsViewController.swift in Sources */,
 				D149909427EA585200DC0A0D /* ShortContactsViewController.swift in Sources */,
 				D1B3E97527EA22F40071A130 /* Person.swift in Sources */,
